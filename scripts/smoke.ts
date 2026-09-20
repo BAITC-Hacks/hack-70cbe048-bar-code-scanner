@@ -1,0 +1,1 @@
+const ean=process.argv[2]||'4870207314301', city=process.argv[3]||'astana'; const r=await fetch(`http://localhost:${process.env.PORT||3000}/api/v1/price?ean=${ean}&city=${city}`); console.log(JSON.stringify(await r.json(),null,2));
