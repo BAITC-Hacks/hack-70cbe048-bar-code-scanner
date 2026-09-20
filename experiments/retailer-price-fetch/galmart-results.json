@@ -1,0 +1,1400 @@
+[
+  {
+    "case": "text_search",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=Coca&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:23.0653681+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10925,
+        "articul": "05060093",
+        "title": "Напиток Coca Cola 250 мл",
+        "price": 605.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 605.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 233.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "СТЕКЛЯННАЯ БУТЫЛКА",
+        "cashback": null
+      },
+      {
+        "id": 10528,
+        "articul": "05060092",
+        "title": "Напиток Coca Cola 1000 мл",
+        "price": 785.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 785.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 440.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      },
+      {
+        "id": 10529,
+        "articul": "05060091",
+        "title": "Напиток Coca Cola 1500 мл",
+        "price": 965.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 965.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 127.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      },
+      {
+        "id": 10530,
+        "articul": "05060094",
+        "title": "Напиток Coca Cola 2000 мл",
+        "price": 1085.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 1085.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 136.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      },
+      {
+        "id": 210601,
+        "articul": "91336846",
+        "title": "Напиток Coca-Cola 450 мл",
+        "price": 545.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 545.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 528.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ЖЕСТЯНАЯ БАНКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "astana_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/10925/",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:23.4003373+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10925,
+        "articul": "05060093",
+        "title": "Напиток Coca Cola 250 мл",
+        "price": 605.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 605.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 233.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "СТЕКЛЯННАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "almaty",
+    "url": "https://galmart.kz/api/v2/catalog/goods/10925/",
+    "headers": {
+      "City": "1",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:23.5128874+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10925,
+        "articul": "05060093",
+        "title": "Напиток Coca Cola 250 мл",
+        "price": 605.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 605.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 133.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "СТЕКЛЯННАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "astana_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/10528/",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:23.6296044+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10528,
+        "articul": "05060092",
+        "title": "Напиток Coca Cola 1000 мл",
+        "price": 785.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 785.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 440.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "almaty",
+    "url": "https://galmart.kz/api/v2/catalog/goods/10528/",
+    "headers": {
+      "City": "1",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:23.7489172+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10528,
+        "articul": "05060092",
+        "title": "Напиток Coca Cola 1000 мл",
+        "price": 700.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 700.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 704.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "astana_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/10529/",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:23.8764921+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10529,
+        "articul": "05060091",
+        "title": "Напиток Coca Cola 1500 мл",
+        "price": 965.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 965.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 127.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "almaty",
+    "url": "https://galmart.kz/api/v2/catalog/goods/10529/",
+    "headers": {
+      "City": "1",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:24.0095561+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10529,
+        "articul": "05060091",
+        "title": "Напиток Coca Cola 1500 мл",
+        "price": 965.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 965.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 113.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "astana_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/10530/",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:24.1172678+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10530,
+        "articul": "05060094",
+        "title": "Напиток Coca Cola 2000 мл",
+        "price": 1085.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 1085.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 136.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "almaty",
+    "url": "https://galmart.kz/api/v2/catalog/goods/10530/",
+    "headers": {
+      "City": "1",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:24.2096873+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10530,
+        "articul": "05060094",
+        "title": "Напиток Coca Cola 2000 мл",
+        "price": 1085.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 1085.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 160.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "astana_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/210601/",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:24.3065826+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 210601,
+        "articul": "91336846",
+        "title": "Напиток Coca-Cola 450 мл",
+        "price": 545.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 545.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 528.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ЖЕСТЯНАЯ БАНКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "almaty",
+    "url": "https://galmart.kz/api/v2/catalog/goods/210601/",
+    "headers": {
+      "City": "1",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:24.4046906+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 210601,
+        "articul": "91336846",
+        "title": "Напиток Coca-Cola 450 мл",
+        "price": 545.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 545.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 583.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ЖЕСТЯНАЯ БАНКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "astana_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/10925/",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:24.5114999+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10925,
+        "articul": "05060093",
+        "title": "Напиток Coca Cola 250 мл",
+        "price": 605.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 605.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 233.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "СТЕКЛЯННАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "astana_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/10528/",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:24.6020220+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10528,
+        "articul": "05060092",
+        "title": "Напиток Coca Cola 1000 мл",
+        "price": 785.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 785.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 440.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "astana_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/10529/",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:24.7277774+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10529,
+        "articul": "05060091",
+        "title": "Напиток Coca Cola 1500 мл",
+        "price": 965.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 965.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 127.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "astana_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/10530/",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:24.8231868+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10530,
+        "articul": "05060094",
+        "title": "Напиток Coca Cola 2000 мл",
+        "price": 1085.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 1085.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 136.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "astana_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/210601/",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:24.9314950+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 210601,
+        "articul": "91336846",
+        "title": "Напиток Coca-Cola 450 мл",
+        "price": 545.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 545.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 528.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "COCA-COLA",
+        "pack_name": "ЖЕСТЯНАЯ БАНКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "weighted_internal_article",
+    "url": "https://galmart.kz/api/v2/catalog/goods/9553/",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:25.0288242+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 9553,
+        "articul": "24990004",
+        "title": "Блинчики galmart, вес, Казахстан",
+        "price": 2680.0,
+        "old_price": null,
+        "unit": "кг",
+        "unit_value": 0.3,
+        "unit_price": 804.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 19.276,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "ЦЕХ",
+        "pack_name": "ПЛАСТИКОВАЯ УПАКОВКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "unknown_barcode_fixture",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=0000000000000&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:25.1409824+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": []
+  },
+  {
+    "case": "candidate_ean_search",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870071003233&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:25.2418485+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": []
+  },
+  {
+    "case": "verified_ean_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870207314301&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:25.3544386+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 163043,
+        "articul": "91317212",
+        "title": "Молоко Food Master Легкое утро безлактозное 3,2%, 1000 мл, Казахстан",
+        "price": 1265.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 1265.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 47.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "FOODMASTER",
+        "pack_name": "ТЕТРАБРИКАСЕПТИК",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870207314301&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:25.4852607+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 163043,
+        "articul": "91317212",
+        "title": "Молоко Food Master Легкое утро безлактозное 3,2%, 1000 мл, Казахстан",
+        "price": 1265.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 1265.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 47.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "FOODMASTER",
+        "pack_name": "ТЕТРАБРИКАСЕПТИК",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4607037122598&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:25.6055313+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 163046,
+        "articul": "91317215",
+        "title": "Сыр плавленный President чеддер 45%, 140 г, Россия",
+        "price": 1370.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 1370.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 11.0,
+        "country_name": "РОССИЯ",
+        "brand_name": "PRESIDENT",
+        "pack_name": "КАРТОННАЯ УПАКОВКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4607037122598&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:25.7601911+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 163046,
+        "articul": "91317215",
+        "title": "Сыр плавленный President чеддер 45%, 140 г, Россия",
+        "price": 1370.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 1370.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 11.0,
+        "country_name": "РОССИЯ",
+        "brand_name": "PRESIDENT",
+        "pack_name": "КАРТОННАЯ УПАКОВКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870091000663&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:25.8983193+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 9019,
+        "articul": "02040139",
+        "title": "Макароны Султан спагетти, 400 г, Казахстан",
+        "price": 625.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 625.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 9.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "СУЛТАН",
+        "pack_name": "ПОЛИЭТИЛЕНОВАЯ УПАКОВКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870091000663&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:26.0212909+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 9019,
+        "articul": "02040139",
+        "title": "Макароны Султан спагетти, 400 г, Казахстан",
+        "price": 625.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 625.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 9.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "СУЛТАН",
+        "pack_name": "ПОЛИЭТИЛЕНОВАЯ УПАКОВКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870091000724&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:26.1511090+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 9024,
+        "articul": "02040144",
+        "title": "Макароны Султан рожки 5, 400 г, Казахстан",
+        "price": 525.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 525.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 13.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "СУЛТАН",
+        "pack_name": "ПОЛИЭТИЛЕНОВАЯ УПАКОВКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870091000724&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:26.2956922+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 9024,
+        "articul": "02040144",
+        "title": "Макароны Султан рожки 5, 400 г, Казахстан",
+        "price": 525.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 525.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 13.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "СУЛТАН",
+        "pack_name": "ПОЛИЭТИЛЕНОВАЯ УПАКОВКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870091000847&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:26.4510626+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 9049,
+        "articul": "04020011",
+        "title": "Макароны Султан спираль, 400 г, Казахстан",
+        "price": 625.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 625.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 3.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "СУЛТАН",
+        "pack_name": "ПОЛИЭТИЛЕНОВАЯ УПАКОВКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870091000847&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:26.5675050+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 9049,
+        "articul": "04020011",
+        "title": "Макароны Султан спираль, 400 г, Казахстан",
+        "price": 625.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 625.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 3.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "СУЛТАН",
+        "pack_name": "ПОЛИЭТИЛЕНОВАЯ УПАКОВКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870001159955&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:26.7067178+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 89719,
+        "articul": "05040100",
+        "title": "Вода Asu негазированная stil 1000мл, Казахстан",
+        "price": 425.0,
+        "old_price": 475.0,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 425.0,
+        "old_unit_price": 475.0,
+        "currency": "₸",
+        "available": true,
+        "inventory": 380.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "ASU",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870001159955&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:26.8402805+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 89719,
+        "articul": "05040100",
+        "title": "Вода Asu негазированная stil 1000мл, Казахстан",
+        "price": 425.0,
+        "old_price": 475.0,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 425.0,
+        "old_unit_price": 475.0,
+        "currency": "₸",
+        "available": true,
+        "inventory": 380.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "ASU",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870001157906&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:26.9696170+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10373,
+        "articul": "05040008",
+        "title": "Вода Asu питьевая негазированная, 1500 мл, Казахстан",
+        "price": 555.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 555.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 169.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "ASU",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870001157906&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:27.1017843+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10373,
+        "articul": "05040008",
+        "title": "Вода Asu питьевая негазированная, 1500 мл, Казахстан",
+        "price": 555.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 555.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 169.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "ASU",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870001570071&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:27.2270801+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10920,
+        "articul": "05060006",
+        "title": "Напиток Pepsi 1000 мл",
+        "price": 725.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 725.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 232.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "PEPSI",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870001570071&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:27.3523921+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 10920,
+        "articul": "05060006",
+        "title": "Напиток Pepsi 1000 мл",
+        "price": 725.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 725.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 232.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "PEPSI",
+        "pack_name": "ПЛАСТИКОВАЯ БУТЫЛКА",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870002329487&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:27.4935211+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 14474,
+        "articul": "91296715",
+        "title": "Напиток Pepsi 1500 мл",
+        "price": 825.0,
+        "old_price": 925.0,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 825.0,
+        "old_unit_price": 925.0,
+        "currency": "₸",
+        "available": true,
+        "inventory": 86.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "PEPSI",
+        "pack_name": "ПЭТ",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870002329487&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:27.7377060+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 14474,
+        "articul": "91296715",
+        "title": "Напиток Pepsi 1500 мл",
+        "price": 825.0,
+        "old_price": 925.0,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 825.0,
+        "old_unit_price": 925.0,
+        "currency": "₸",
+        "available": true,
+        "inventory": 86.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "PEPSI",
+        "pack_name": "ПЭТ",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870002321276&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:27.8608843+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": []
+  },
+  {
+    "case": "verified_ean_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870002321276&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:27.9672322+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": []
+  },
+  {
+    "case": "verified_ean_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870055002696&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:28.0788956+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 11046,
+        "articul": "13010054",
+        "title": "Молоко Lactel с витамином D 3,2%, 1000 мл, Казахстан",
+        "price": 846.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 846.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 234.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "LACTEL",
+        "pack_name": "ТЕТРАПАК",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870055002696&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:28.2005535+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 11046,
+        "articul": "13010054",
+        "title": "Молоко Lactel с витамином D 3,2%, 1000 мл, Казахстан",
+        "price": 846.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 846.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 234.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "LACTEL",
+        "pack_name": "ТЕТРАПАК",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass1",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870055000852&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:28.3292975+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 11067,
+        "articul": "13060023",
+        "title": "Кефир FoodMaster 2,5%, 1000 мл, Казахстан",
+        "price": 647.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 647.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 26.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "ФУДМАСТЕР",
+        "pack_name": "ТЕТРАПАК",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "verified_ean_pass2",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870055000852&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:28.4481087+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": [
+      {
+        "id": 11067,
+        "articul": "13060023",
+        "title": "Кефир FoodMaster 2,5%, 1000 мл, Казахстан",
+        "price": 647.0,
+        "old_price": null,
+        "unit": "шт",
+        "unit_value": 1.0,
+        "unit_price": 647.0,
+        "old_unit_price": null,
+        "currency": "₸",
+        "available": true,
+        "inventory": 26.0,
+        "country_name": "КАЗАХСТАН",
+        "brand_name": "ФУДМАСТЕР",
+        "pack_name": "ТЕТРАПАК",
+        "cashback": null
+      }
+    ]
+  },
+  {
+    "case": "real_ean_no_match",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=4870207314530&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:28.5943133+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": []
+  },
+  {
+    "case": "documented_weighted_internal_code",
+    "url": "https://galmart.kz/api/v2/catalog/goods/?search=2857067&limit=5",
+    "headers": {
+      "City": "2",
+      "Accept-Language": "ru"
+    },
+    "retrieved_at": "2026-09-20T18:24:28.7292223+00:00",
+    "http_status": 200,
+    "api_status": 200,
+    "source_updated_at": null,
+    "items": []
+  }
+]

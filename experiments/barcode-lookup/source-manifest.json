@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+    "sha256": "897d55026abd0c28c72764905688d3075b5672c6d77a0186fcf3ff7722f82b78",
+    "checked_date": "2026-09-20",
+    "local_cache": ".cache\\barcode\\galmart-rules-source.pdf",
+    "bytes": 1784099,
+    "git_included": false
+  },
+  {
+    "url": "https://sultanmarketing.kz/wp-content/uploads/2019/10/katalog-2019-3.pdf",
+    "sha256": "be69f5e3114b1dae147978a194ea3429f1f285e586f8e0f59ba6a50908bb4ff4",
+    "checked_date": "2026-09-20",
+    "local_cache": ".cache\\barcode\\sultan-catalog-source.pdf",
+    "bytes": 20828578,
+    "git_included": false
+  }
+]

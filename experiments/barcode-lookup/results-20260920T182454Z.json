@@ -1,0 +1,1125 @@
+{
+  "run_id": "20260920T182454Z",
+  "sample_method": "purposive independent primary-document sample; not market-representative",
+  "results": [
+    {
+      "code": "4870001159955",
+      "expected_name": "A'SU Негаз 1л",
+      "category": "water",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 21]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870001159955.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:24:54.376001+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 200,
+      "response_date": "Sun, 20 Sep 2026 18:24:55 GMT",
+      "response": {
+        "code": "4870001159955",
+        "errors": [],
+        "product": {
+          "brands": "asu",
+          "code": "4870001159955",
+          "countries_tags": [
+            "en:kazakhstan"
+          ],
+          "last_modified_t": 1742431102,
+          "product_name": "Вода Asu негазированная",
+          "quantity": "1л"
+        },
+        "result": {
+          "id": "product_found",
+          "lc_name": "Product found",
+          "name": "Product found"
+        },
+        "status": "success",
+        "warnings": []
+      },
+      "outcome": "FOUND",
+      "received_at_utc": "2026-09-20T18:24:54.892930+00:00"
+    },
+    {
+      "code": "4870001157906",
+      "expected_name": "A'SU Негаз 1,5л",
+      "category": "water",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 21]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870001157906.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:24:59.895715+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 404,
+      "response": {
+        "code": "4870001157906",
+        "errors": [
+          {
+            "field": {
+              "id": "code",
+              "value": "4870001157906"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "product_not_found",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ],
+        "result": {
+          "id": "product_not_found",
+          "lc_name": "Product not found",
+          "name": "Product not found"
+        },
+        "status": "failure",
+        "warnings": []
+      },
+      "outcome": "NOT_FOUND",
+      "received_at_utc": "2026-09-20T18:25:00.186836+00:00"
+    },
+    {
+      "code": "4870001570071",
+      "expected_name": "Pepsi 1л",
+      "category": "soda",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 24]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870001570071.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:25:05.188161+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 200,
+      "response_date": "Sun, 20 Sep 2026 18:25:05 GMT",
+      "response": {
+        "code": "4870001570071",
+        "errors": [],
+        "product": {
+          "brands": "Pepsi",
+          "code": "4870001570071",
+          "countries_tags": [
+            "en:kazakhstan"
+          ],
+          "last_modified_t": 1682849873,
+          "product_name": "Безалкогольный сильногазированный напиток «Pepsi-Cola»",
+          "quantity": "1 л"
+        },
+        "result": {
+          "id": "product_found",
+          "lc_name": "Product found",
+          "name": "Product found"
+        },
+        "status": "success",
+        "warnings": []
+      },
+      "outcome": "FOUND",
+      "received_at_utc": "2026-09-20T18:25:05.482736+00:00"
+    },
+    {
+      "code": "4870001570132",
+      "expected_name": "7UP 1л",
+      "category": "soda",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 21]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870001570132.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:25:10.484729+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 404,
+      "response": {
+        "code": "4870001570132",
+        "errors": [
+          {
+            "field": {
+              "id": "code",
+              "value": "4870001570132"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "product_not_found",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ],
+        "result": {
+          "id": "product_not_found",
+          "lc_name": "Product not found",
+          "name": "Product not found"
+        },
+        "status": "failure",
+        "warnings": []
+      },
+      "outcome": "NOT_FOUND",
+      "received_at_utc": "2026-09-20T18:25:10.768794+00:00"
+    },
+    {
+      "code": "4870002321276",
+      "expected_name": "Gracio 0,95л Апельсин",
+      "category": "juice",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 23]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870002321276.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:25:15.770179+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 404,
+      "response": {
+        "code": "4870002321276",
+        "errors": [
+          {
+            "field": {
+              "id": "code",
+              "value": "4870002321276"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "product_not_found",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ],
+        "result": {
+          "id": "product_not_found",
+          "lc_name": "Product not found",
+          "name": "Product not found"
+        },
+        "status": "failure",
+        "warnings": []
+      },
+      "outcome": "NOT_FOUND",
+      "received_at_utc": "2026-09-20T18:25:16.032159+00:00"
+    },
+    {
+      "code": "4870001150075",
+      "expected_name": "DaDa 0,95л Томат",
+      "category": "juice",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 22]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870001150075.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:25:21.048358+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 200,
+      "response_date": "Sun, 20 Sep 2026 18:25:21 GMT",
+      "response": {
+        "code": "4870001150075",
+        "errors": [],
+        "product": {
+          "code": "4870001150075",
+          "countries_tags": [
+            "en:kazakhstan"
+          ],
+          "last_modified_t": 1788521176,
+          "product_name": "сок да-да томат"
+        },
+        "result": {
+          "id": "product_found",
+          "lc_name": "Product found",
+          "name": "Product found"
+        },
+        "status": "success",
+        "warnings": []
+      },
+      "outcome": "FOUND",
+      "received_at_utc": "2026-09-20T18:25:21.332358+00:00"
+    },
+    {
+      "code": "4870002327841",
+      "expected_name": "Gracio 0,95л Вишня",
+      "category": "juice",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 23]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870002327841.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:25:26.334609+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 200,
+      "response_date": "Sun, 20 Sep 2026 18:25:26 GMT",
+      "response": {
+        "code": "4870002327841",
+        "errors": [],
+        "product": {
+          "code": "4870002327841",
+          "countries_tags": [
+            "en:russia"
+          ],
+          "last_modified_t": 1788519391,
+          "product_name": "сок грацио вишня"
+        },
+        "result": {
+          "id": "product_found",
+          "lc_name": "Product found",
+          "name": "Product found"
+        },
+        "status": "success",
+        "warnings": []
+      },
+      "outcome": "FOUND",
+      "received_at_utc": "2026-09-20T18:25:26.619474+00:00"
+    },
+    {
+      "code": "4870002320477",
+      "expected_name": "Piala TB 25пак Черный",
+      "category": "tea",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 24]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870002320477.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:25:31.631676+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 404,
+      "response": {
+        "code": "4870002320477",
+        "errors": [
+          {
+            "field": {
+              "id": "code",
+              "value": "4870002320477"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "product_not_found",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ],
+        "result": {
+          "id": "product_not_found",
+          "lc_name": "Product not found",
+          "name": "Product not found"
+        },
+        "status": "failure",
+        "warnings": []
+      },
+      "outcome": "NOT_FOUND",
+      "received_at_utc": "2026-09-20T18:25:31.935009+00:00"
+    },
+    {
+      "code": "4870002320880",
+      "expected_name": "Piala TB 25пак Зеленый",
+      "category": "tea",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 24]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870002320880.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:25:36.936216+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 200,
+      "response_date": "Sun, 20 Sep 2026 18:25:37 GMT",
+      "response": {
+        "code": "4870002320880",
+        "errors": [],
+        "product": {
+          "brands": "Пиала Gold",
+          "code": "4870002320880",
+          "countries_tags": [
+            "en:kazakhstan"
+          ],
+          "last_modified_t": 1674559739,
+          "product_name": "Чай зеленый пакетированный «Отборный»",
+          "quantity": "25 x 1,5 г"
+        },
+        "result": {
+          "id": "product_found",
+          "lc_name": "Product found",
+          "name": "Product found"
+        },
+        "status": "success",
+        "warnings": []
+      },
+      "outcome": "FOUND",
+      "received_at_utc": "2026-09-20T18:25:37.219201+00:00"
+    },
+    {
+      "code": "4870002321160",
+      "expected_name": "Piala TB 100пак фольга Черный",
+      "category": "tea",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 24]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870002321160.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:25:42.224228+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 404,
+      "response": {
+        "code": "4870002321160",
+        "errors": [
+          {
+            "field": {
+              "id": "code",
+              "value": "4870002321160"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "product_not_found",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ],
+        "result": {
+          "id": "product_not_found",
+          "lc_name": "Product not found",
+          "name": "Product not found"
+        },
+        "status": "failure",
+        "warnings": []
+      },
+      "outcome": "NOT_FOUND",
+      "received_at_utc": "2026-09-20T18:25:42.512806+00:00"
+    },
+    {
+      "code": "4870207314301",
+      "expected_name": "МОЛОКО ФУДМАСТЕР ЛЕГКОЕ УТРО БЕЗЛАКТОЗНОЕ 3,2% 1000МЛ TBA",
+      "category": "milk",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 30]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870207314301.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:25:47.514002+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 200,
+      "response_date": "Sun, 20 Sep 2026 18:25:48 GMT",
+      "response": {
+        "code": "4870207314301",
+        "errors": [],
+        "product": {
+          "brands": "Food Master",
+          "code": "4870207314301",
+          "countries_tags": [
+            "en:kazakhstan"
+          ],
+          "last_modified_t": 1752928762,
+          "product_name": "Молоко «Лёгкое утро» 3.2%"
+        },
+        "result": {
+          "id": "product_found",
+          "lc_name": "Product found",
+          "name": "Product found"
+        },
+        "status": "success",
+        "warnings": []
+      },
+      "outcome": "FOUND",
+      "received_at_utc": "2026-09-20T18:25:47.792615+00:00"
+    },
+    {
+      "code": "4870055002696",
+      "expected_name": "МОЛОКО СТЕР LACTEL С ВИТ D 3,2% 1000МЛ Т/П",
+      "category": "milk",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 26]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870055002696.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:25:52.794684+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 200,
+      "response_date": "Sun, 20 Sep 2026 18:25:53 GMT",
+      "response": {
+        "code": "4870055002696",
+        "errors": [],
+        "product": {
+          "brands": "Lactel",
+          "code": "4870055002696",
+          "countries_tags": [
+            "en:kazakhstan"
+          ],
+          "last_modified_t": 1767530085,
+          "product_name": "Milk 3.2%"
+        },
+        "result": {
+          "id": "product_found",
+          "lc_name": "Product found",
+          "name": "Product found"
+        },
+        "status": "success",
+        "warnings": []
+      },
+      "outcome": "FOUND",
+      "received_at_utc": "2026-09-20T18:25:53.078553+00:00"
+    },
+    {
+      "code": "4870055000852",
+      "expected_name": "КЕФИР ФУДМАСТЕР 2,5% 1000МЛ Т/П",
+      "category": "fermented_dairy",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 26]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870055000852.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:25:58.095086+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 200,
+      "response_date": "Sun, 20 Sep 2026 18:25:58 GMT",
+      "response": {
+        "code": "4870055000852",
+        "errors": [],
+        "product": {
+          "brands": "FoodMaster",
+          "code": "4870055000852",
+          "countries_tags": [
+            "en:kazakhstan"
+          ],
+          "last_modified_t": 1762338833,
+          "product_name": "Кефир 2,5%",
+          "quantity": "1000г"
+        },
+        "result": {
+          "id": "product_found",
+          "lc_name": "Product found",
+          "name": "Product found"
+        },
+        "status": "success",
+        "warnings": []
+      },
+      "outcome": "FOUND",
+      "received_at_utc": "2026-09-20T18:25:58.508807+00:00"
+    },
+    {
+      "code": "4870207312130",
+      "expected_name": "ЙОГУРТ ПИТ ФУДМАСТЕР КЛУБНИКА 2% 450Г П/П",
+      "category": "yogurt",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 25]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870207312130.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:26:03.511124+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 404,
+      "response": {
+        "code": "4870207312130",
+        "errors": [
+          {
+            "field": {
+              "id": "code",
+              "value": "4870207312130"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "product_not_found",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ],
+        "result": {
+          "id": "product_not_found",
+          "lc_name": "Product not found",
+          "name": "Product not found"
+        },
+        "status": "failure",
+        "warnings": []
+      },
+      "outcome": "NOT_FOUND",
+      "received_at_utc": "2026-09-20T18:26:03.839645+00:00"
+    },
+    {
+      "code": "4870207313946",
+      "expected_name": "ТВОРОГ PRESIDENT ТРАДИЦИОННЫЙ 5% 200Г",
+      "category": "curd",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 25]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870207313946.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:26:08.841668+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 200,
+      "response_date": "Sun, 20 Sep 2026 18:26:09 GMT",
+      "response": {
+        "code": "4870207313946",
+        "errors": [],
+        "product": {
+          "brands": "President",
+          "code": "4870207313946",
+          "countries_tags": [
+            "en:kazakhstan"
+          ],
+          "last_modified_t": 1785321739,
+          "product_name": "Творог мягкий 5%"
+        },
+        "result": {
+          "id": "product_found",
+          "lc_name": "Product found",
+          "name": "Product found"
+        },
+        "status": "success",
+        "warnings": []
+      },
+      "outcome": "FOUND",
+      "received_at_utc": "2026-09-20T18:26:09.125521+00:00"
+    },
+    {
+      "code": "4607037122598",
+      "expected_name": "СЫР ПЛАВЛ PRESIDENT ЧЕДДЕР 45% 140Г КАРТ/УП",
+      "category": "cheese",
+      "database": "OFF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 30]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4607037122598.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:26:14.128175+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 404,
+      "response": {
+        "code": "4607037122598",
+        "errors": [
+          {
+            "field": {
+              "id": "code",
+              "value": "4607037122598"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "product_not_found",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ],
+        "result": {
+          "id": "product_not_found",
+          "lc_name": "Product not found",
+          "name": "Product not found"
+        },
+        "status": "failure",
+        "warnings": []
+      },
+      "outcome": "NOT_FOUND",
+      "received_at_utc": "2026-09-20T18:26:14.398404+00:00"
+    },
+    {
+      "code": "8001841288055",
+      "expected_name": "ШАМПУНЬ HERBAL ESSENCES КОКОСОВОЕ МОЛОКО 400МЛ",
+      "category": "cosmetics",
+      "database": "OBF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 45]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openbeautyfacts.org/api/v3.6/product/8001841288055.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:26:19.400655+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 404,
+      "response": {
+        "code": "8001841288055",
+        "errors": [
+          {
+            "field": {
+              "id": "code",
+              "value": "8001841288055"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "product_not_found",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ],
+        "result": {
+          "id": "product_not_found",
+          "lc_name": "Product not found",
+          "name": "Product not found"
+        },
+        "status": "failure",
+        "warnings": []
+      },
+      "outcome": "NOT_FOUND",
+      "received_at_utc": "2026-09-20T18:26:19.841188+00:00"
+    },
+    {
+      "code": "8693495032841",
+      "expected_name": "МЫЛО PALMOLIVE НАТУРЭЛЬ ЦИТРУС И КРЕМ 90Г",
+      "category": "cosmetics",
+      "database": "OBF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 45]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openbeautyfacts.org/api/v3.6/product/8693495032841.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:26:24.843091+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 404,
+      "response": {
+        "code": "8693495032841",
+        "errors": [
+          {
+            "field": {
+              "id": "code",
+              "value": "8693495032841"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "product_not_found",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ],
+        "result": {
+          "id": "product_not_found",
+          "lc_name": "Product not found",
+          "name": "Product not found"
+        },
+        "status": "failure",
+        "warnings": []
+      },
+      "outcome": "NOT_FOUND",
+      "received_at_utc": "2026-09-20T18:26:25.104195+00:00"
+    },
+    {
+      "code": "8006540366981",
+      "expected_name": "ПАСТА ЗУБ BLEND-A-MED СВЕЖЕСТЬ ТРАВ 100МЛ",
+      "category": "cosmetics",
+      "database": "OBF",
+      "source_url": "https://galmart.kz/static/site/rules/rules_qr_5.pdf",
+      "source_page": "[PAGE 45]",
+      "source_document_date": "2024-10-01",
+      "source_kind": "retailer official promotion rules; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "NOT_INFERRED_FROM_PREFIX",
+      "negative_control": false,
+      "request_url": "https://world.openbeautyfacts.org/api/v3.6/product/8006540366981.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:26:30.114475+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 404,
+      "response": {
+        "code": "8006540366981",
+        "errors": [
+          {
+            "field": {
+              "id": "code",
+              "value": "8006540366981"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "product_not_found",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ],
+        "result": {
+          "id": "product_not_found",
+          "lc_name": "Product not found",
+          "name": "Product not found"
+        },
+        "status": "failure",
+        "warnings": []
+      },
+      "outcome": "NOT_FOUND",
+      "received_at_utc": "2026-09-20T18:26:30.383279+00:00"
+    },
+    {
+      "code": "4870091000663",
+      "expected_name": "Султан Спагетти 400 г",
+      "category": "pasta",
+      "database": "OFF",
+      "source_url": "https://sultanmarketing.kz/wp-content/uploads/2019/10/katalog-2019-3.pdf",
+      "source_document_date": "2019",
+      "source_kind": "manufacturer catalog; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "Kazakhstan manufacturer catalog; verify current package",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870091000663.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:26:35.386262+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 200,
+      "response_date": "Sun, 20 Sep 2026 18:26:35 GMT",
+      "response": {
+        "code": "4870091000663",
+        "errors": [],
+        "product": {
+          "code": "4870091000663",
+          "countries_tags": [
+            "en:russia"
+          ],
+          "last_modified_t": 1770103114,
+          "product_name": "султан спаггети"
+        },
+        "result": {
+          "id": "product_found",
+          "lc_name": "Product found",
+          "name": "Product found"
+        },
+        "status": "success",
+        "warnings": []
+      },
+      "outcome": "FOUND",
+      "received_at_utc": "2026-09-20T18:26:35.661770+00:00"
+    },
+    {
+      "code": "4870091000724",
+      "expected_name": "Султан Рожки 5 400 г",
+      "category": "pasta",
+      "database": "OFF",
+      "source_url": "https://sultanmarketing.kz/wp-content/uploads/2019/10/katalog-2019-3.pdf",
+      "source_document_date": "2019",
+      "source_kind": "manufacturer catalog; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "Kazakhstan manufacturer catalog; verify current package",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870091000724.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:26:40.663508+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 404,
+      "response": {
+        "code": "4870091000724",
+        "errors": [
+          {
+            "field": {
+              "id": "code",
+              "value": "4870091000724"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "product_not_found",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ],
+        "result": {
+          "id": "product_not_found",
+          "lc_name": "Product not found",
+          "name": "Product not found"
+        },
+        "status": "failure",
+        "warnings": []
+      },
+      "outcome": "NOT_FOUND",
+      "received_at_utc": "2026-09-20T18:26:40.958394+00:00"
+    },
+    {
+      "code": "4870091000847",
+      "expected_name": "Султан Спираль 400 г",
+      "category": "pasta",
+      "database": "OFF",
+      "source_url": "https://sultanmarketing.kz/wp-content/uploads/2019/10/katalog-2019-3.pdf",
+      "source_document_date": "2019",
+      "source_kind": "manufacturer catalog; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "Kazakhstan manufacturer catalog; verify current package",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870091000847.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:26:45.960772+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 200,
+      "response_date": "Sun, 20 Sep 2026 18:26:46 GMT",
+      "response": {
+        "code": "4870091000847",
+        "errors": [],
+        "product": {
+          "brands": "Sultan, Сұлтан",
+          "code": "4870091000847",
+          "countries_tags": [
+            "en:kazakhstan"
+          ],
+          "last_modified_t": 1770098372,
+          "product_name": "Сұлтан спираль",
+          "quantity": "400 g"
+        },
+        "result": {
+          "id": "product_found",
+          "lc_name": "Product found",
+          "name": "Product found"
+        },
+        "status": "success",
+        "warnings": []
+      },
+      "outcome": "FOUND",
+      "received_at_utc": "2026-09-20T18:26:46.257401+00:00"
+    },
+    {
+      "code": "4870091000861",
+      "expected_name": "Султан Ракушки 400 г",
+      "category": "pasta",
+      "database": "OFF",
+      "source_url": "https://sultanmarketing.kz/wp-content/uploads/2019/10/katalog-2019-3.pdf",
+      "source_document_date": "2019",
+      "source_kind": "manufacturer catalog; historical identity evidence only",
+      "source_checked_date": "2026-09-20",
+      "country_of_manufacture": "Kazakhstan manufacturer catalog; verify current package",
+      "negative_control": false,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/4870091000861.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:26:51.259694+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 200,
+      "response_date": "Sun, 20 Sep 2026 18:26:51 GMT",
+      "response": {
+        "code": "4870091000861",
+        "errors": [],
+        "product": {
+          "brands": "Султан",
+          "code": "4870091000861",
+          "countries_tags": [
+            "en:russia"
+          ],
+          "last_modified_t": 1770098583,
+          "product_name": "Ракушки",
+          "quantity": "400г"
+        },
+        "result": {
+          "id": "product_found",
+          "lc_name": "Product found",
+          "name": "Product found"
+        },
+        "status": "success",
+        "warnings": []
+      },
+      "outcome": "FOUND",
+      "received_at_utc": "2026-09-20T18:26:51.568312+00:00"
+    },
+    {
+      "code": "0000000000000",
+      "expected_name": "Synthetic negative control; not a real product or claim of unassigned GTIN",
+      "category": "control",
+      "database": "OFF",
+      "source_url": null,
+      "negative_control": true,
+      "request_url": "https://world.openfoodfacts.org/api/v3.6/product/0000000000000.json?fields=code,product_name,brands,quantity,last_modified_t,countries_tags",
+      "requested_at_utc": "2026-09-20T18:26:56.570337+00:00",
+      "checksum_valid": true,
+      "price": null,
+      "store": null,
+      "http_status": 404,
+      "response": {
+        "code": "00000000",
+        "errors": [
+          {
+            "field": {
+              "id": "code",
+              "value": "0000000000000"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "invalid_code",
+              "lc_name": "Invalid code",
+              "name": "Invalid code"
+            }
+          },
+          {
+            "field": {
+              "id": "code",
+              "value": "00000000"
+            },
+            "impact": {
+              "id": "failure",
+              "lc_name": "Failure",
+              "name": "Failure"
+            },
+            "message": {
+              "id": "product_not_found",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ],
+        "result": {
+          "id": "product_not_found",
+          "lc_name": "Product not found",
+          "name": "Product not found"
+        },
+        "status": "failure",
+        "warnings": [
+          {
+            "field": {
+              "id": "code",
+              "value": "00000000"
+            },
+            "impact": {
+              "id": "none",
+              "lc_name": "None",
+              "name": "None"
+            },
+            "message": {
+              "id": "different_normalized_product_code",
+              "lc_name": "",
+              "name": ""
+            }
+          }
+        ]
+      },
+      "outcome": "NOT_FOUND",
+      "received_at_utc": "2026-09-20T18:26:56.834070+00:00"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "source_url": "https://wolt.com/ru/kaz/nur-sultan/venue/small-ast06",
+  "observed_at": "2026-09-20T18:24:28.867Z",
+  "source_price_updated_at": null,
+  "channel": "delivery",
+  "legal_status": "restricted_without_consent",
+  "venue": [
+    {
+      "id": "691461574ee89029061eeb57",
+      "name": "Small Абылай Хана №06",
+      "slug": "small-ast06",
+      "address": "проспект Абылай хана 5 ",
+      "currency": "KZT"
+    }
+  ],
+  "items_with_gtin_in_response": 22,
+  "selected_items": [
+    {
+      "retailer_product_id": "e1e6118627f503561fffb0ba",
+      "barcode_gtin": "04810268030383",
+      "ean13": "4810268030383",
+      "name": "Йогурт Teos Греческий черника 2% 140 г",
+      "price_raw": 49900,
+      "price_kzt_inferred": 499,
+      "unit_info": "140 г",
+      "original_price": 61500
+    },
+    {
+      "retailer_product_id": "d37d4fa0f86d5241442b1228",
+      "barcode_gtin": "04870028000773",
+      "ean13": "4870028000773",
+      "name": "Вафли Баян Сулу арахисовые 400 г",
+      "price_raw": 68500,
+      "price_kzt_inferred": 685,
+      "unit_info": "400 г",
+      "original_price": 103500
+    },
+    {
+      "retailer_product_id": "6b688d120275ef029c010b57",
+      "barcode_gtin": "04870144002583",
+      "ean13": "4870144002583",
+      "name": "Молоко Dep деповское 2,5% 0,9 л",
+      "price_raw": 48300,
+      "price_kzt_inferred": 483,
+      "unit_info": "1 кг",
+      "original_price": 53700
+    },
+    {
+      "retailer_product_id": "90a81ef7b858088c01b92150",
+      "barcode_gtin": "08445290141552",
+      "ean13": "8445290141552",
+      "name": "Корм для кошек Felix Говядина в желе 75 г",
+      "price_raw": 23500,
+      "price_kzt_inferred": 235,
+      "unit_info": "75 г",
+      "original_price": 24500
+    },
+    {
+      "retailer_product_id": "6b1bed260c93f75755bc0b8e",
+      "barcode_gtin": "04870055002696",
+      "ean13": "4870055002696",
+      "name": "Молоко Lactel ультрапастеризованное 3,2% 1 л",
+      "price_raw": 69500,
+      "price_kzt_inferred": 695,
+      "unit_info": "1 кг",
+      "original_price": 84600
+    },
+    {
+      "retailer_product_id": "fdb918363c66301cfee3fe9e",
+      "barcode_gtin": "04812476004422",
+      "ean13": "4812476004422",
+      "name": "Сыр Ясь Белоус голландский 45% 200 г",
+      "price_raw": 120500,
+      "price_kzt_inferred": 1205,
+      "unit_info": "200 г",
+      "original_price": 160700
+    },
+    {
+      "retailer_product_id": "e5346e03cd7bc53df180bccb",
+      "barcode_gtin": "04870035007451",
+      "ean13": "4870035007451",
+      "name": "Майонез 3 Желания Провансаль 380 г",
+      "price_raw": 84500,
+      "price_kzt_inferred": 845,
+      "unit_info": "380 г",
+      "original_price": 93900
+    },
+    {
+      "retailer_product_id": "7e2e189c9c0bca5ae50cf59c",
+      "barcode_gtin": "04870145005910",
+      "ean13": "4870145005910",
+      "name": "Напиток Flash Up Ultra энергетический 0,43 л",
+      "price_raw": 47900,
+      "price_kzt_inferred": 479,
+      "unit_info": "430 г",
+      "original_price": 59700
+    },
+    {
+      "retailer_product_id": "2809ec028451d0535c1ca942",
+      "barcode_gtin": "04810268033285",
+      "ean13": "4810268033285",
+      "name": "Сыр Брест-Литовск Сливочный 50% 200 г",
+      "price_raw": 149900,
+      "price_kzt_inferred": 1499,
+      "unit_info": "200 г",
+      "original_price": 174900
+    },
+    {
+      "retailer_product_id": "b1ea93451fbb036440c56adc",
+      "barcode_gtin": "05449000054227",
+      "ean13": "5449000054227",
+      "name": "Напиток Coca-Cola газированный 1 л",
+      "price_raw": 66500,
+      "price_kzt_inferred": 665,
+      "unit_info": "1 кг",
+      "original_price": null
+    }
+  ],
+  "notes": [
+    "Price /100 inference must be checked against visible KZT values.",
+    "Page rendering timestamp does not establish price update time.",
+    "Selected sample only; not a catalog export."
+  ]
+}

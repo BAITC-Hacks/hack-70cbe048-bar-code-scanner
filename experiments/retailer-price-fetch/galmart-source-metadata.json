@@ -1,0 +1,111 @@
+{
+  "retrieved_at": "2026-09-20T18:26:47.3641818+00:00",
+  "api_source": "https://galmart.kz/assets/index-D7ie-zi_.js",
+  "discovery": "Public client uses City header default 2 and /api/v2/catalog/goods/?search=text; product detail /api/v2/catalog/goods/{id}/",
+  "shops": [
+    {
+      "id": 1,
+      "title": "Алматы",
+      "shop_addresses": [
+        {
+          "id": 1,
+          "title": "Dostyk Plaza",
+          "address": "мкр. Самал-2, 111",
+          "work_time": "Ежедневно 09:00 - 23:45",
+          "latitude": 43.233485,
+          "longitude": 76.956667
+        },
+        {
+          "id": 2,
+          "title": "Forum",
+          "address": "ул.Сейфуллина, 617",
+          "work_time": "Ежедневно 09:00 - 23:45",
+          "latitude": 43.233787,
+          "longitude": 76.935413
+        },
+        {
+          "id": 3,
+          "title": "MEGA Alma-Ata",
+          "address": "ул. Розыбакиева, 247А",
+          "work_time": "Ежедневно 09:00 - 23:45",
+          "latitude": 43.200878,
+          "longitude": 76.892267
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Астана",
+      "shop_addresses": [
+        {
+          "id": 4,
+          "title": "Keruen",
+          "address": "ул. Достык, 9",
+          "work_time": "Ежедневно 09:00 - 23:45",
+          "latitude": 51.128406,
+          "longitude": 71.425336
+        },
+        {
+          "id": 5,
+          "title": "Keruen city",
+          "address": "Коргалжинское шоссе, 1",
+          "work_time": "Ежедневно 09:00 - 23:45",
+          "latitude": 51.145371,
+          "longitude": 71.414107
+        },
+        {
+          "id": 6,
+          "title": "Abu Dhabi Plaza",
+          "address": "ул, Сыганак, 60/5",
+          "work_time": "Ежедневно 10:00 - 21:45",
+          "latitude": 51.121403,
+          "longitude": 71.426922
+        },
+        {
+          "id": 7,
+          "title": "MEGA Silk Way",
+          "address": "пр. Кабанбай батыра, 62",
+          "work_time": "Ежедневно 09:00 - 23:45",
+          "latitude": 51.08921,
+          "longitude": 71.40666
+        },
+        {
+          "id": 8,
+          "title": "Международный аэропорт Нурсултан Назарбаев",
+          "address": "пр. Кабанбай батыра, 119",
+          "work_time": "24/7",
+          "latitude": 51.026993,
+          "longitude": 71.460882
+        },
+        {
+          "id": 10,
+          "title": "ЖК Австрийский квартал",
+          "address": "ул. Калдаякова, 6",
+          "work_time": "Ежедневно 08:00 - 22:45",
+          "latitude": 51.117969,
+          "longitude": 71.459229
+        },
+        {
+          "id": 12,
+          "title": "ЖК Akbulak Riviera",
+          "address": "ул. Амман 21",
+          "work_time": "Ежедневно 08:00 - 22:45",
+          "latitude": 51.148145,
+          "longitude": 71.444173
+        },
+        {
+          "id": 13,
+          "title": "ЖК Europe City",
+          "address": "ул. Акмешит, 1 блок 3",
+          "work_time": "Ежедневно 08:00 - 23:45",
+          "latitude": 51.120485,
+          "longitude": 71.424878
+        }
+      ]
+    }
+  ],
+  "robots": "User-agent: *\nDisallow: /catalog/search\nDisallow: /account/\nDisallow: /orders/\nDisallow: /basket/\nAllow: /\n",
+  "legal_url": "https://galmart.kz/legal/oferta",
+  "legal_summary": "Sections 3.5 and 5.3-5.4: reference information and changeable prices; no reuse license established",
+  "retailer_source_updated_at": null
+}

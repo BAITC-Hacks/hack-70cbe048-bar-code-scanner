@@ -1,0 +1,32 @@
+{
+  "retrieved_at": "2026-09-20T18:24:29.2604536+00:00",
+  "url": "https://www.toimart.kz/",
+  "status": 200,
+  "cities": [
+    "<option value=\"1\" selected>Алматы",
+    "<option value=\"5\" >Каскелен",
+    "<option value=\"6\" >Талгар",
+    "<option value=\"4\" >Иссык",
+    "<option value=\"3\" >Конаев",
+    "<option value=\"2\" >Талдыкорган",
+    "<option value=\"7\" >Жаркент",
+    "<option value=\"8\" >Ушарал",
+    "<option value=\"13\" >п. Боралдай",
+    "<option value=\"9\" >п. Отеген батыр",
+    "<option value=\"12\" >п. Абай",
+    "<option value=\"11\" >с. Иргели",
+    "<option value=\"10\" >с. Панфилово",
+    "<option value=\"14\" >с. Узынагаш",
+    "<option value=\"15\" >c. Балпык Би"
+  ],
+  "promotions": [
+    " 609&nbsp;₸ 479&nbsp;₸ ПЕТРОПАВЛОВСКОЕ Молоко 3,2% 900 мл ",
+    " 1065&nbsp;₸ 869&nbsp;₸ МАКFA Мука 2 кг ",
+    " 1757&nbsp;₸ 999&nbsp;₸ BETA TEA Чай 250 г DREAM KENYA GOLD ",
+    " 1275&nbsp;₸ 899&nbsp;₸ ШАДРИНСКОЕ Молоко концентрированное 7,1% 500 мл ",
+    " 785&nbsp;₸ 625&nbsp;₸ PEPSI Напиток 1,5 л ",
+    " 5099&nbsp;₸ 2999&nbsp;₸ TIDE Стиральный порошок 3 кг "
+  ],
+  "robots": "User-agent: *\nAllow: /\nDisallow: /vacancies/*\nSitemap: https://toimart.kz/sitemap.xml\n",
+  "notes": "Price blocks are website promotions, no EAN matching confirmed"
+}
