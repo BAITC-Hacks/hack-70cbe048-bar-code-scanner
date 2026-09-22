@@ -1,0 +1,167 @@
+{
+  "checked_at": "2026-09-22T22:37:14.309Z",
+  "report": [
+    {
+      "name": "magnum",
+      "url": "https://magnum.kz:1337/api/products?pagination[pageSize]=3&populate=*",
+      "status": 200,
+      "final_url": "https://magnum.kz:1337/api/products?pagination[pageSize]=3&populate=*",
+      "bytes": 14898,
+      "barcode_fields": [],
+      "scripts": []
+    },
+    {
+      "name": "magnum-ean",
+      "url": "https://magnum.kz:1337/api/products?filters[$or][0][name][$containsi]=4870207314301&populate=*",
+      "status": 200,
+      "final_url": "https://magnum.kz:1337/api/products?filters[$or][0][name][$containsi]=4870207314301&populate=*",
+      "bytes": 83,
+      "barcode_fields": [],
+      "scripts": []
+    },
+    {
+      "name": "magnum-web",
+      "url": "https://www.magnum.kz/products/475",
+      "status": 200,
+      "final_url": "https://www.magnum.kz/products/475",
+      "bytes": 584934,
+      "barcode_fields": [],
+      "scripts": [
+        "/_nuxt/cc7b457.js",
+        "/_nuxt/fb431c6.js",
+        "/_nuxt/6a7aad0.js",
+        "/_nuxt/9c9e0a0.js"
+      ]
+    },
+    {
+      "name": "magnumgo",
+      "url": "https://magnumgo.kz/",
+      "error": "fetch failed"
+    },
+    {
+      "name": "metro",
+      "url": "https://shop.metro-kz.com/",
+      "status": 200,
+      "final_url": "https://shop.metro-kz.com/shop",
+      "bytes": 3204,
+      "barcode_fields": [],
+      "scripts": [
+        "/ordercapture/uidispatcher/static/app/scripts.js?1c96a52ecbaceebe03cc",
+        "/ordercapture/uidispatcher/static/injector.js?c_b=85b9cc9d4f",
+        "/cia/content/sitecore/storeIdMappingWithOnlineVisibility/KZ/ru-KZ",
+        "/searchdiscover/i18n/js/vertical/EXPLORE/locale/ru-KZ",
+        "/searchdiscover/i18n/js/vertical/INSPIRATION/locale/ru-KZ",
+        "/searchdiscover/i18n/js/vertical/EVALUATE/locale/ru-KZ"
+      ]
+    },
+    {
+      "name": "small",
+      "url": "https://small.kz/",
+      "status": 403,
+      "final_url": "https://small.kz/",
+      "bytes": 5506,
+      "barcode_fields": [],
+      "scripts": []
+    },
+    {
+      "name": "anvar",
+      "url": "https://shop.anvar.kz/",
+      "status": 200,
+      "final_url": "https://shop.anvar.kz/",
+      "bytes": 5528,
+      "barcode_fields": [],
+      "scripts": [
+        "/assets/index-DFZ0l-EY.js"
+      ]
+    },
+    {
+      "name": "toimart",
+      "url": "https://toimart.kz/",
+      "status": 200,
+      "final_url": "https://www.toimart.kz/",
+      "bytes": 145853,
+      "barcode_fields": [],
+      "scripts": [
+        "/js/app.js?17"
+      ]
+    },
+    {
+      "name": "arbuz",
+      "url": "https://arbuz.kz/",
+      "status": 200,
+      "final_url": "https://arbuz.kz/",
+      "bytes": 720965,
+      "barcode_fields": [
+        "uot;article_group&quot;:&quot;&quot;,&quot;tags_search&quot;:&quot;&quot;,&quot;barcode&quot;:&quot;4670001272896&quot;,&quot;scale_name&quot;:null,&quot;is_yandex_feed_disabled&quot;:0,&quot;is_google_feed_",
+        "uot;article_group&quot;:&quot;&quot;,&quot;tags_search&quot;:&quot;&quot;,&quot;barcode&quot;:&quot;4640008039013&quot;,&quot;scale_name&quot;:null,&quot;is_yandex_feed_disabled&quot;:0,&quot;is_google_feed_",
+        "uot;article_group&quot;:&quot;&quot;,&quot;tags_search&quot;:&quot;&quot;,&quot;barcode&quot;:&quot;4670001272889&quot;,&quot;scale_name&quot;:null,&quot;is_yandex_feed_disabled&quot;:0,&quot;is_google_feed_",
+        "uot;article_group&quot;:&quot;&quot;,&quot;tags_search&quot;:&quot;&quot;,&quot;barcode&quot;:&quot;4640008039020&quot;,&quot;scale_name&quot;:null,&quot;is_yandex_feed_disabled&quot;:0,&quot;is_google_feed_",
+        "uot;article_group&quot;:&quot;&quot;,&quot;tags_search&quot;:&quot;&quot;,&quot;barcode&quot;:&quot;4607959062064&quot;,&quot;scale_name&quot;:null,&quot;is_yandex_feed_disabled&quot;:0,&quot;is_google_feed_",
+        "uot;article_group&quot;:&quot;&quot;,&quot;tags_search&quot;:&quot;&quot;,&quot;barcode&quot;:&quot;4640043076882&quot;,&quot;scale_name&quot;:null,&quot;is_yandex_feed_disabled&quot;:0,&quot;is_google_feed_",
+        "uot;article_group&quot;:&quot;&quot;,&quot;tags_search&quot;:&quot;&quot;,&quot;barcode&quot;:&quot;4640043076868&quot;,&quot;scale_name&quot;:null,&quot;is_yandex_feed_disabled&quot;:0,&quot;is_google_feed_",
+        "uot;article_group&quot;:&quot;&quot;,&quot;tags_search&quot;:&quot;&quot;,&quot;barcode&quot;:&quot;4640043076899&quot;,&quot;scale_name&quot;:null,&quot;is_yandex_feed_disabled&quot;:0,&quot;is_google_feed_",
+        "uot;article_group&quot;:&quot;&quot;,&quot;tags_search&quot;:&quot;&quot;,&quot;barcode&quot;:&quot;4601916013939&quot;,&quot;scale_name&quot;:null,&quot;is_yandex_feed_disabled&quot;:0,&quot;is_google_feed_",
+        "uot;article_group&quot;:&quot;&quot;,&quot;tags_search&quot;:&quot;&quot;,&quot;barcode&quot;:&quot;4601916013984&quot;,&quot;scale_name&quot;:null,&quot;is_yandex_feed_disabled&quot;:0,&quot;is_google_feed_",
+        "uot;article_group&quot;:&quot;&quot;,&quot;tags_search&quot;:&quot;&quot;,&quot;barcode&quot;:&quot;4571157258249&quot;,&quot;scale_name&quot;:null,&quot;is_yandex_feed_disabled&quot;:0,&quot;is_google_feed_",
+        "uot;article_group&quot;:&quot;&quot;,&quot;tags_search&quot;:&quot;&quot;,&quot;barcode&quot;:&quot;49698640&quot;,&quot;scale_name&quot;:null,&quot;is_yandex_feed_disabled&quot;:0,&quot;is_google_feed_disab"
+      ],
+      "scripts": [
+        "/ruxitagentjs_ICA7NQVfhqrux_10339260603164134.js",
+        "https://api.mindbox.ru/scripts/v1/tracker.js",
+        "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+        "/static/platform/js/frontend.4c2dd85cfccfe876f4b8.js"
+      ]
+    },
+    {
+      "name": "carefood",
+      "url": "https://carefood.kz/",
+      "status": 200,
+      "final_url": "https://carefood.kz/",
+      "bytes": 101089,
+      "barcode_fields": [],
+      "scripts": [
+        "/var/cache/asset_dc7f84eac8f73806a35776371d00a07e.js",
+        "/var/cache/asset_065f7458fb250fee2780c6a518b71f51.js",
+        "/var/cache/asset_3b5e3066eb0a14f889511398c3577691.js",
+        "/var/cache/asset_6eb13bad80dec3209c6d48d8627a0bf3.js",
+        "/var/cache/asset_fe8307ed4ee4eafc31c477207fc45a89.js",
+        "/var/cache/asset_01602c36ec1bb89f8bf044034f27f8ab.js"
+      ]
+    },
+    {
+      "name": "firkan",
+      "url": "https://firkan24.kz/",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "astore",
+      "url": "https://a-store.kz/",
+      "status": 200,
+      "final_url": "https://a-store.kz/",
+      "bytes": 22019,
+      "barcode_fields": [],
+      "scripts": [
+        "catalog/view/javascript/jquery-3.4.1.min.js",
+        "catalog/view/javascript/app.js",
+        "catalog/view/javascript/mask.js",
+        "catalog/view/javascript/jquery/magnific/jquery.magnific-popup.min.js",
+        "catalog/view/javascript/jquery/pavnewsletter.js",
+        "catalog/view/javascript/jquery/swiper/js/swiper.jquery.js"
+      ]
+    },
+    {
+      "name": "fixprice",
+      "url": "https://fix-price.kz/ru",
+      "status": 403,
+      "final_url": "https://fix-price.kz/ru",
+      "bytes": 5516,
+      "barcode_fields": [],
+      "scripts": []
+    },
+    {
+      "name": "ayan",
+      "url": "https://new.ayanmarket.kz/product/moloko-food-master-32-1l-lactel-legkoe-utro-bezlaktoznoe-812406",
+      "error": "fetch failed"
+    }
+  ]
+}

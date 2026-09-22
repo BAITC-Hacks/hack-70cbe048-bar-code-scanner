@@ -1,0 +1,695 @@
+{
+  "source": "https://arbuz.kz/",
+  "scope": "public HTML product collection metadata; GTIN identity only, NOT a price feed",
+  "retrieved_at": "2026-09-22",
+  "products": [
+    {
+      "id": 343526,
+      "name": "Крупа Amarantica амарантовая цельнозерновая, 600 г",
+      "barcode": "4670001272896",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 343532,
+      "name": "Каша Amarancho амарантово-гречневая с грибами и жареным луком 40 г",
+      "barcode": "4640008039013",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 343527,
+      "name": "Крупа Amarantica амарантовая быстроразваривающаяся, 180 г",
+      "barcode": "4670001272889",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 343529,
+      "name": "Каша Amarancho амарантово-овсяная малина со сливками 45 г",
+      "barcode": "4640008039020",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 343537,
+      "name": "Гранола Amarancho амарантово-овсяная, ореховая 270 г",
+      "barcode": "4607959062064",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 343541,
+      "name": "Гарнир Amarancho амарант с полбой целой и грибами 300 г",
+      "barcode": "4640043076882",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 343544,
+      "name": "Гарнир Amarancho чечевица с амарантом, полбой и овощами 300 г",
+      "barcode": "4640043076868",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 343545,
+      "name": "Гарнир Amarancho рис бурый с амарантом и овощами 300 г",
+      "barcode": "4640043076899",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 343546,
+      "name": "Хлебцы Amarancho хрустящие булгур с амарантом, 90 г",
+      "barcode": "4601916013939",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 343547,
+      "name": "Хлебцы Amarancho хрустящие рисово-амарантовые 90 г",
+      "barcode": "4601916013984",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 342894,
+      "name": "Лапша Cup Noodle Curry быстрого приготовления 87 г",
+      "barcode": "49698640",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 349381,
+      "name": "Крекеры Sakata Beika Mirai Onigiri Pro рисовые с высоким содержанием белка, 30 г",
+      "barcode": "4901798013431",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 342901,
+      "name": "Лапша Cup Noodle Light Curry быстрого приготовления 70 г",
+      "barcode": "4902105252499",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 349363,
+      "name": "Газированный напиток Ramune Hata Kosen арбуз, 200 мл",
+      "barcode": "4902494230061",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 349378,
+      "name": "Рисовые крекеры Sakata Beika Kagami с соевым соусом, 110 г",
+      "barcode": "4901798003234",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 342897,
+      "name": "Лапша Cup Noodle Kara-men быстрого приготовления, острая 82 г",
+      "barcode": "4902105267837",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 349364,
+      "name": "Газированный напиток Hata Kosen Ramune original, 200 мл",
+      "barcode": "4902494008004",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 342898,
+      "name": "Лапша Cup Noodle Tantan быстрого приготовления 87 г",
+      "barcode": "4902105279595",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 275112,
+      "name": "Яйца Foodz куриные фермерские/домашние 15 шт",
+      "barcode": "764460223521",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 286654,
+      "name": "Салат Сеул Кимчи капуста квашеная со специями 500 г",
+      "barcode": "4700005620024",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 228398,
+      "name": "Капуста Солёныч квашеная 850 г",
+      "barcode": "4870007620060",
+      "price_actual": 525,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 257499,
+      "name": "Яйца Птицыно-Курицыно фермерские, перепелиные 20 шт",
+      "barcode": "4870219080010",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 228396,
+      "name": "Капуста Солёныч квашеная с клюквой 850 г",
+      "barcode": "4870007620091",
+      "price_actual": 625,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 286653,
+      "name": "Салат Сеул Кимчи капуста квашеная со специями 1 кг",
+      "barcode": "4700005620147",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 275111,
+      "name": "Яйца Foodz куриные фермерские/домашние 10 шт",
+      "barcode": "764460223507",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 228399,
+      "name": "Морковь Солёныч по корейски 450 г",
+      "barcode": "4870007620237",
+      "price_actual": 380,
+      "price_previous": 455,
+      "url": null
+    },
+    {
+      "id": 226509,
+      "name": "Креветки королевские Vici в панцире замороженные 500 г",
+      "barcode": "4770190045568",
+      "price_actual": 4675,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 241040,
+      "name": "Скумбрия VICI атлантическая кусочки холодного копчения, 250 г",
+      "barcode": "4680023469518",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 318488,
+      "name": "Молоко Mileo 3,2%, 1 л",
+      "barcode": "4870006981476",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 232700,
+      "name": "Сыр Брест-Литовск Голландский брусок 45%, 200 г",
+      "barcode": "4810268035326",
+      "price_actual": 860,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 269936,
+      "name": "Йогурт Food Master Греческий натуральный 8,4% 300 г",
+      "barcode": "4870207314394",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 255045,
+      "name": "Сыр Комо полутвердый Кантри 50%, 350 г",
+      "barcode": "4820039807380",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 340139,
+      "name": "Ризотто Mazza с цветками цуккини, 300 г",
+      "barcode": "8028277004530",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 340138,
+      "name": "Ризотто Mazza с белыми грибами, 300 г",
+      "barcode": "8028277004516",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 340140,
+      "name": "Ризотто Mazza с трюфелем, 300 г",
+      "barcode": "8028277004578",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 335390,
+      "name": "Оливки Mazza зеленые без косточек, 720 мл",
+      "barcode": "8028277003601",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 341493,
+      "name": "Манты Arbuz Select x JamBull с говядиной, 900 г",
+      "barcode": "4870265474078",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 338310,
+      "name": "Семена Freedom Fresh кумин (зира), 100 г",
+      "barcode": "4870265474672",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 261770,
+      "name": "Йогурт Teos греческий 2%, 140 г",
+      "barcode": "4810268030369",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 261780,
+      "name": "Йогурт Teos греческий с манго и чиа 2%, 140 г",
+      "barcode": "4810268038006",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 261772,
+      "name": "Йогурт Teos греческий с черникой 2% 140 г",
+      "barcode": "4810268030383",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 279940,
+      "name": "Йогурт Teos греческий с черникой 2%, 250 г",
+      "barcode": "4810268032738",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 278086,
+      "name": "Пудинг Hyper High protein с шоколадом 1,5%, 200 г",
+      "barcode": "4606779910609",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 342674,
+      "name": "Пудинг Hyper High protein карамель, 1,5% 200 г",
+      "barcode": "4606779203503",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 345530,
+      "name": "Коктейль Teos pro молочный со вкусом клубниики обезжиреный, 330 г",
+      "barcode": "4810268061363",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 279938,
+      "name": "Йогурт Teos греческий с грецким орехом и мёдом 2%, 250 г",
+      "barcode": "4810268038037",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 331784,
+      "name": "Молоко Славянские традиции 2.5%, 1 л",
+      "barcode": "4810093015944",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 331785,
+      "name": "Молоко Славянские традиции 3.2%, 1 л",
+      "barcode": "4810093015951",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 336190,
+      "name": "Крем сливочный Минская марка 33% с крышкой 1 кг",
+      "barcode": "4810093015715",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 228877,
+      "name": "Сыр ММЗ №1 мягкий Фета 45% 250 г",
+      "barcode": "4810319005797",
+      "price_actual": 715,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 346063,
+      "name": "Сыр Аристей мягкий Фету, со вкусом оливок, 250 г",
+      "barcode": "4810319010487",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 343425,
+      "name": "Сливки Минская марка питьевые 10%, 200 г",
+      "barcode": "4810319017608",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 346061,
+      "name": "Масло Минская марка крестьянское сладкосливочное несоленое, 72,5 %, 180 г",
+      "barcode": "4810319019725",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 346060,
+      "name": "Масло 1М Молочный сладкосливочное безлактозное 82,5% 180 г",
+      "barcode": "4810940006088",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 346035,
+      "name": "Молоко Депи для питания детей раннего возраста 3,2% 200 мл",
+      "barcode": "4810319007708",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 346059,
+      "name": "Масло Минская марка сладкосливочное несоленое, 82,5%, 180 г",
+      "barcode": "4810319019732",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 314804,
+      "name": "Напиток EXPONENTA кисломолочный обезжиренный, клубника-арбуз 250 г",
+      "barcode": "4811258001086",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 206207,
+      "name": "Напиток Coca-Cola Zero Sugar газированный, 1 л",
+      "barcode": "5449000133328",
+      "price_actual": 295,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 333555,
+      "name": "Напиток Exponenta High-Pro кисломолочный безлактозный манго-кокос 250 г",
+      "barcode": "4811258002939",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 264213,
+      "name": "Шоколад Победа молочный без сахара 36% 50 г",
+      "barcode": "4607005409072",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 208218,
+      "name": "Напиток Coca-cola Zero Sugar газированный, 0.5 л",
+      "barcode": "5449000131836",
+      "price_actual": 199,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 334635,
+      "name": "Напиток Pepsi zero sugar, 0.5 л",
+      "barcode": "4870145005613",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 349391,
+      "name": "Напиток Aquarius спортивный изотонический, 500 мл",
+      "barcode": "4902102069366",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 314806,
+      "name": "Напиток Exponenta кисломолочный обезжиренный малина-банан, 250 г",
+      "barcode": "4811258002557",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 334637,
+      "name": "Напиток Pepsi zero sugar, 1 л",
+      "barcode": "4870145005620",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 225402,
+      "name": "Хлебцы Хлебцы Молодцы лайт вафельные, хрустящие с витаминами 70 г",
+      "barcode": "4607024590966",
+      "price_actual": 181,
+      "price_previous": 226,
+      "url": null
+    },
+    {
+      "id": 335143,
+      "name": "Сыр Золото Европы Маасдам 45% нарезка, 400 г",
+      "barcode": "4607023239026",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 335124,
+      "name": "Сыр Dolce Granto Пармезан 40%, 200 г",
+      "barcode": "4607023235509",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 335141,
+      "name": "Сыр Тысяча Озёр Фермерский с пажитником 50%, 180 г",
+      "barcode": "4607023239477",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 338241,
+      "name": "Сыр Золото Европы трюфель крем 50%, 140 г",
+      "barcode": "4607023239514",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 338242,
+      "name": "Сыр Золото Европы горгонзола крем 50%, 140 г",
+      "barcode": "4607023239507",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 335134,
+      "name": "Сыр Тысяча Озёр Безлактозный 50% нарезка, 125 г",
+      "barcode": "4607023237831",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 335130,
+      "name": "Сыр Сиртаки Original 55%, 330 г",
+      "barcode": "4607023234434",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 335137,
+      "name": "Сыр Тысяча Озёр Безлактозный 50%, 180 г",
+      "barcode": "4607023239323",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 335128,
+      "name": "Сыр Сиртаки Classic 35%, 330 г",
+      "barcode": "4607023233796",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 335142,
+      "name": "Сыр Тысяча Озёр Фермерский с пажитником 50% нарезка, 125 г",
+      "barcode": "4607023239460",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 349540,
+      "name": "Тайная история. Донна Тартт",
+      "barcode": "9785170872954",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 349548,
+      "name": "Бегущий за ветром. Халед Хоссейни",
+      "barcode": "9785864716731",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 350190,
+      "name": "Твое сердце будет разбито.Анна Джейн",
+      "barcode": "9785002111336",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 341322,
+      "name": "Атомные привычки. Как приобрести хорошие привычки и избавиться от плохих, Клир Д.",
+      "barcode": "9785446141173",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 339896,
+      "name": "Самый богатый человек в Вавилоне, Клейсон Д.",
+      "barcode": "9785041748111",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 349545,
+      "name": "48 законов власти. Роберт Грин",
+      "barcode": "9785386147297",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 339665,
+      "name": "Если все кошки в мире исчезнут, Кавамура Г.",
+      "barcode": "9785041813956",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 339702,
+      "name": "К себе нежно. Книга о том, как ценить и беречь себя, Примаченко О.В.",
+      "barcode": "9785041920784",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 341323,
+      "name": "Бог всегда путешествует инкогнито, Гунель Л.",
+      "barcode": "9785389191266",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    },
+    {
+      "id": 340161,
+      "name": "Женский род. Единственное число, Кожатаева С.",
+      "barcode": "9786017910815",
+      "price_actual": 0,
+      "price_previous": 0,
+      "url": null
+    }
+  ]
+}

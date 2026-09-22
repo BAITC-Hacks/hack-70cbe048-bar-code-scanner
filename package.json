@@ -1,1 +1,46 @@
-{"name":"barcode-price-scanner","private":true,"version":"0.1.0","type":"module","scripts":{"dev":"concurrently \"npm:dev:server\" \"npm:dev:web\"","dev:server":"tsx watch server/src/index.ts","dev:web":"vite --host 0.0.0.0","build":"tsc -p tsconfig.json && vite build","test":"vitest run","start":"node dist/server/src/index.js","smoke":"tsx scripts/smoke.ts"},"dependencies":{"@zxing/browser":"^0.1.5","better-sqlite3":"^11.7.0","cors":"^2.8.5","express":"^4.21.2","react":"^18.3.1","react-dom":"^18.3.1"},"devDependencies":{"@types/better-sqlite3":"^7.6.12","@types/cors":"^2.8.17","@types/express":"^5.0.0","@types/node":"^22.10.2","@types/react":"^18.3.18","@types/react-dom":"^18.3.5","@vitejs/plugin-react":"^4.3.4","concurrently":"^9.1.2","tsx":"^4.19.2","typescript":"^5.7.2","vite":"^6.0.7","vitest":"^2.1.8"}}
+{
+  "name": "baga",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm:dev:server\" \"npm:dev:web\"",
+    "dev:server": "node --env-file-if-exists=.env --import tsx --watch server/src/index.ts",
+    "dev:web": "vite --host 0.0.0.0",
+    "build": "tsc --noEmit -p tsconfig.json && tsc -p tsconfig.server.json && vite build",
+    "test": "vitest run",
+    "start": "node --env-file-if-exists=.env dist/server/index.js",
+    "smoke": "tsx scripts/smoke.ts",
+    "ingest:galmart": "tsx scripts/ingest-galmart.ts",
+    "research:gtins": "tsx scripts/build-gtin-corpus.ts",
+    "verify": "npm run build && npm test"
+  },
+  "dependencies": {
+    "@zxing/browser": "^0.1.5",
+    "better-sqlite3": "^11.7.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^2.4.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.12",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/multer": "^1.4.13",
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.1.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.7",
+    "vitest": "^2.1.8"
+  },
+  "engines": {
+    "node": ">=22.9 <23"
+  },
+  "description": "Baga — barcode price lookup and retailer price provenance for Kazakhstan"
+}
